@@ -1,10 +1,3 @@
-vvdvddfdf dsfdsf
-<<<<<<< HEAD
-dddd
-dfdfd
-fds
-gdf
-g
-=======
-ddd testttd
->>>>>>> 5acb7318883b642cc86f56e7862ad4ab0eff3f06
+aaaaaaaaaaaaaaaa
+bbbbbbbbbbbbb
+cccccccccccccc
